@@ -1,5 +1,5 @@
-import { Data } from "../../../../interfaces/Data";
-import { SwatchCircle } from "./SwatchCircle";
+import { Data } from '../../../../interfaces/Data';
+import SwatchCircle from './SwatchCircle';
 
 type SwatchesProps = {
   activeData: Data;
@@ -7,10 +7,14 @@ type SwatchesProps = {
   handleSwatchClick: (item: Data) => void;
 };
 
-export const Swatches = ({ activeData, swatchData, handleSwatchClick }: SwatchesProps) => {
+export const Swatches = ({
+  activeData,
+  swatchData,
+  handleSwatchClick,
+}: SwatchesProps) => {
   const handleSwatchClicked = (item: Data) => {
     handleSwatchClick(item);
-  }
+  };
 
   return (
     <div className="h-fit absolute z-20 w-full bottom-0 flex justify-center gap-8 mb-2  lg:w-fit lg:inset-y-[40%] lg:right-20 lg:flex-col">
@@ -24,4 +28,4 @@ export const Swatches = ({ activeData, swatchData, handleSwatchClick }: Swatches
       ))}
     </div>
   );
-}
+};

@@ -1,6 +1,6 @@
-import React from "react";
-import { Swatches } from "../Swatches/Swatches";
-import { Data } from "../../../../interfaces/Data";
+import React from 'react';
+import { Swatches } from '../Swatches/Swatches';
+import { Data } from '../../../../interfaces/Data';
 
 type CanvasProps = {
   activeData: Data;

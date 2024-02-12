@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-import { Data } from "../../../../interfaces/Data";
+import { Data } from '../../../../interfaces/Data';
 import gsap from 'gsap';
 
 type ContentProps = {
@@ -8,33 +8,35 @@ type ContentProps = {
 
 export const Content = ({ activeData }: ContentProps) => {
   useEffect(() => {
-    gsap.to(".button", {
+    gsap.to('.button', {
       color: activeData.buttonColor.text,
       backgroundColor: activeData.buttonColor.background,
       duration: 1,
-      ease: "power3.inOut",
+      ease: 'power3.inOut',
     });
 
-    gsap.to("p", {
+    gsap.to('p', {
       color: activeData.textColor,
-      ease: "power3.inOut",
+      ease: 'power3.inOut',
       duration: 0.8,
     });
 
-    gsap.fromTo(".text",
+    gsap.fromTo(
+      '.text',
       {
         opacity: 0,
-        y: 50
+        y: 50,
       },
       {
         opacity: 1,
         y: 0,
         duration: 1,
-        ease: "power3.inOut",
+        ease: 'power3.inOut',
         stagger: {
-          amount: 0.4
-        }
-      });
+          amount: 0.4,
+        },
+      },
+    );
   }, [activeData]);
 
   return (
@@ -55,4 +57,4 @@ export const Content = ({ activeData }: ContentProps) => {
       </div>
     </div>
   );
-}
+};
