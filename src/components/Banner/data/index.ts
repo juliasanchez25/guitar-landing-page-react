@@ -25,7 +25,7 @@ export const data = [
     text: "Les Paul",
     subText: "The Gibson Les Paul",
     description: "The Gibson Les Paul is a solid body electric guitar",
-    swatchColor: "4F92B1",
+    swatchColor: "#4F92B1",
     background: "#C1D6E3",
     textColor: "#1F333E",
     buttonColor: { text: "#FFFFFF", background: "#2F7393" },
