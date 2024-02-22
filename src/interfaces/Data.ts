@@ -7,4 +7,9 @@ export type Data = {
   background: string;
   textColor: string;
   buttonColor: { text: string; background: string };
+  itemList: {
+    bag: { color: string };
+    strap: { color: string };
+    metal: { color: string };
+  };
 };

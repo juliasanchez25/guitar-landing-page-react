@@ -1,0 +1,686 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1746,
+      "max": [
+        0.8457199335098267,
+        3.5174083709716797,
+        0.11942405998706818
+      ],
+      "min": [
+        -0.7945132851600647,
+        -1.4673714637756348,
+        -0.08259929716587067
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 20952,
+      "componentType": 5126,
+      "count": 1746,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1746,
+      "max": [
+        0.9999999403953552,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.05798158794641495
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 4830,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 41904,
+      "componentType": 5126,
+      "count": 180,
+      "max": [
+        0.0061777071096003056,
+        1.945597529411316,
+        0.010376528836786747
+      ],
+      "min": [
+        -0.006177706643939018,
+        -2.3178529739379883,
+        -0.2678702473640442
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 44064,
+      "componentType": 5126,
+      "count": 180,
+      "max": [
+        0.7073098421096802,
+        0.585631787776947,
+        0.7071067690849304
+      ],
+      "min": [
+        -0.7073098421096802,
+        -0.009979818016290665,
+        -0.7072793245315552
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 13968,
+      "componentType": 5126,
+      "count": 180,
+      "max": [
+        0.875,
+        0.75
+      ],
+      "min": [
+        0.125,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 19320,
+      "componentType": 5125,
+      "count": 612,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 46224,
+      "componentType": 5126,
+      "count": 1056,
+      "max": [
+        0.1151391863822937,
+        3.472205638885498,
+        0.11083605885505676
+      ],
+      "min": [
+        -0.2545405924320221,
+        2.7765402793884277,
+        0.05342893674969673
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 58896,
+      "componentType": 5126,
+      "count": 1056,
+      "max": [
+        0.9939754605293274,
+        0.9986639022827148,
+        1.0
+      ],
+      "min": [
+        -0.9938895106315613,
+        -0.9986639022827148,
+        -0.9999985098838806
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 15408,
+      "componentType": 5126,
+      "count": 1056,
+      "max": [
+        0.2961218059062958,
+        0.8664641380310059
+      ],
+      "min": [
+        0.0,
+        0.7641719579696655
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 21768,
+      "componentType": 5125,
+      "count": 3132,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 71568,
+      "componentType": 5126,
+      "count": 354,
+      "max": [
+        0.42214977741241455,
+        0.07200001925230026,
+        0.045556649565696716
+      ],
+      "min": [
+        -0.07200002670288086,
+        -0.31394898891448975,
+        -0.021975025534629822
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 75816,
+      "componentType": 5126,
+      "count": 354,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -6.772377787456207e-07
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 23856,
+      "componentType": 5126,
+      "count": 354,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 34296,
+      "componentType": 5125,
+      "count": 990,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 80064,
+      "componentType": 5126,
+      "count": 282,
+      "max": [
+        0.43803349137306213,
+        0.11769527196884155,
+        0.023815589025616646
+      ],
+      "min": [
+        -0.4532434642314911,
+        -0.12649162113666534,
+        -0.023815589025616646
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 83448,
+      "componentType": 5126,
+      "count": 282,
+      "max": [
+        0.9982553720474243,
+        0.9236369729042053,
+        0.9468797445297241
+      ],
+      "min": [
+        -0.9148597121238708,
+        -0.9276313185691833,
+        -0.9469287991523743
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 26688,
+      "componentType": 5126,
+      "count": 282,
+      "max": [
+        0.38954928517341614,
+        0.8538874983787537
+      ],
+      "min": [
+        5.47291238035541e-05,
+        0.054289646446704865
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 38256,
+      "componentType": 5125,
+      "count": 1308,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "YieldingMist206 (https://sketchfab.com/YieldingMist206)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/electric-guitar-stratocaster-red-df357b3a2bf54798b288c90387cb6eb5",
+      "title": "Electric Guitar Stratocaster Red"
+    },
+    "generator": "Sketchfab-13.53.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 43488,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 28944,
+      "byteOffset": 43488,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 86832,
+      "byteOffset": 72432,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 159264,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Guitar_baseColor.png"
+    },
+    {
+      "uri": "textures/Vibrato_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Guitar",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.11176385399547907
+      }
+    },
+    {
+      "name": "Strings",
+      "pbrMetallicRoughness": {
+        "roughnessFactor": 0.7320543962
+      }
+    },
+    {
+      "name": "Tuning_Keys",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.266
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Buttons",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.6,
+          0.6,
+          0.6,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Vibrato",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8099932081
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Guitar_Guitar_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Strings_Strings_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Tuning_Keys_Tuning_Keys_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Controls_Buttons_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Vibrato_Vibrato_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 17,
+            "POSITION": 16,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.0,
+        -2.220446049250313e-16,
+        1.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Electric Guitar Stratocaster Red.fbx"
+    },
+    {
+      "children": [
+        3,
+        5,
+        7,
+        9,
+        11
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        -4.371139006309477e-06,
+        -99.99999999999991,
+        -1.1102230246251565e-14,
+        0.0,
+        -4.371139011860592e-06,
+        1.9984014443252818e-13,
+        -99.99999999999991,
+        0.0,
+        99.99999999999982,
+        -4.371139011860592e-06,
+        -4.371139006309477e-06,
+        0.0,
+        -8.037744522094727,
+        84.79276275634766,
+        103.8182144165039,
+        1.0
+      ],
+      "name": "Guitar"
+    },
+    {
+      "mesh": 0,
+      "name": "Guitar_Guitar_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.629206793918314e-05,
+        -99.99999999999868,
+        0.0,
+        0.0,
+        99.99999999999868,
+        -1.629206793918314e-05,
+        0.0,
+        1.456045389175415,
+        95.87080383300781,
+        -41.01233673095703,
+        1.0
+      ],
+      "name": "Strings"
+    },
+    {
+      "mesh": 1,
+      "name": "Strings_Strings_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        -4.371139006309477e-06,
+        -99.99999999999991,
+        -1.1102230246251565e-14,
+        0.0,
+        -4.371139011860592e-06,
+        1.9984014443252818e-13,
+        -99.99999999999991,
+        0.0,
+        99.99999999999982,
+        -4.371139011860592e-06,
+        -4.371139006309477e-06,
+        0.0,
+        -8.037744522094727,
+        84.79276275634766,
+        103.8182144165039,
+        1.0
+      ],
+      "name": "Tuning_Keys"
+    },
+    {
+      "mesh": 2,
+      "name": "Tuning_Keys_Tuning_Keys_0"
+    },
+    {
+      "children": [
+        10
+      ],
+      "matrix": [
+        -4.371139006309477e-06,
+        -99.99999999999991,
+        -1.1102230246251565e-14,
+        0.0,
+        -4.371139011860592e-06,
+        1.9984014443252818e-13,
+        -99.99999999999991,
+        0.0,
+        99.99999999999982,
+        -4.371139011860592e-06,
+        -4.371139006309477e-06,
+        0.0,
+        0.0,
+        52.744388580322266,
+        160.09999084472656,
+        1.0
+      ],
+      "name": "Controls"
+    },
+    {
+      "mesh": 3,
+      "name": "Controls_Buttons_0"
+    },
+    {
+      "children": [
+        12
+      ],
+      "matrix": [
+        -55.279453386528246,
+        5.551115123125783e-15,
+        83.33175885151262,
+        0.0,
+        83.33175885151238,
+        7.549789948768648e-06,
+        55.27945338652809,
+        0.0,
+        -6.29137275609537e-06,
+        99.99999999999972,
+        -4.173482626157465e-06,
+        0.0,
+        55.69750213623047,
+        1.6885120868682861,
+        164.75555419921875,
+        1.0
+      ],
+      "name": "Vibrato"
+    },
+    {
+      "mesh": 4,
+      "name": "Vibrato_Vibrato_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}

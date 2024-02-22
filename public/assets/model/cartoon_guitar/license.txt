@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cartoon Guitar
+* source:	https://sketchfab.com/3d-models/cartoon-guitar-0c8c8270cc584e94bd1fd04370bcb4dd
+* author:	Denis Temirgalin (https://sketchfab.com/Temirgalin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cartoon Guitar" (https://sketchfab.com/3d-models/cartoon-guitar-0c8c8270cc584e94bd1fd04370bcb4dd) by Denis Temirgalin (https://sketchfab.com/Temirgalin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

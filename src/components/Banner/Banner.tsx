@@ -7,7 +7,7 @@ import gsap from 'gsap';
 
 export const Banner = () => {
   const banner = useRef<HTMLElement | null>(null);
-  const [activeData, setActiveData] = useState<Data>(data[1]);
+  const [activeData, setActiveData] = useState<Data>(data[0]);
 
   const handleSwatchClick = (item: Data) => {
     if (activeData.id !== item.id) setActiveData(item);
